@@ -26,8 +26,8 @@ div{
 .dishes1{
     margin-top: 0;
     float: right;
-    color: rgb(220, 225, 229);
-    background: rgb(121, 8, 8);
+    color: rgb(12, 12, 12);
+    background: rgb(233, 116, 116);
     border-left: 3px solid black;
     border-bottom: 3px solid black;
     
@@ -42,7 +42,7 @@ div{
     margin-top: 0;
     float: right;
     color: rgb(220, 225, 229);
-    background: rgb(226, 116, 82);
+    background: rgba(159, 82, 59, 0.881);
     border-left: 3px solid black;
     border-bottom: 3px solid black;
     width: 30%;
@@ -57,8 +57,8 @@ div{
 .dishes3{
     margin-top: 0;
     float: right;
-    color: rgb(220, 225, 229);
-    background: rgb(162, 173, 68);
+    color: rgb(16, 16, 17);
+    background: rgba(241, 218, 104, 0.816);
     border-left: 3px solid black;
     border-bottom: 3px solid black;
     width: 30%;
