@@ -1,0 +1,54 @@
+body{
+    font-size: 16px;
+    font-family: 'oxygen',sans-serif;
+}
+#header-nav{
+    background: #757171;
+    height:70px;
+    border:5px solid black;  
+}
+
+.container .navbar-header {
+    margin-left: 0%;
+}
+.navbar-brand h1 {
+    color: black ;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #353434e4;
+    line-height: 0.75;
+    float: left;
+}
+.navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;
+}
+.navbar-nav {
+    padding-top: 15px;
+}
+#nav-item{
+    width: 100%;
+}
+.container {
+    margin: 1.6rem;
+    padding: 1.5rem;
+    }
+.collapse li{
+    border: 1px solid black;
+    margin: 0%;
+    
+}
+.chicken {
+    border: 1px solid black;
+    padding:1.5em;
+    text-align: center;
+    background-color: #757171;
+
+}
+.chicken h2{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+p{
+    height: fit-content;
+}
