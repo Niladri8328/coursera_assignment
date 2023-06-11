@@ -1,11 +1,10 @@
 
-(function(window){
- 
-    var helloSpeaker ={};
+(function(window) {
+	var speakWord = "Hello";
+	var helloSpeaker = function (name) {
+		console.log(speakWord + " " + name);
+	}
 
-    var speakWord = "Hello";
-    helloSpeaker.speak = function (name) {
-    console.log(speakWord + " " + helloSpeaker.name);
-}
-window.helloSpeaker=helloSpeaker;
+	window.helloSpeaker = helloSpeaker;
+
 })(window);
